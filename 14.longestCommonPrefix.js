@@ -25,4 +25,3 @@ var longestCommonPrefix = function(strs) {
     }
     return commonPrefix
 };
-console.log(longestCommonPrefix(["flower","flow","flight"]))
